@@ -6,6 +6,8 @@
 - 😄 Pronouns:he/him
 - ⚡ Fun fact: Reach me and you know it.
 
+<img src="https://count.getloli.com/get/@:divynshu?theme=gelbooru-h" alt=":name" />
+
 <!---
 divynshu/divynshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
