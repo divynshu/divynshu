@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divynshu
 - 👀 I’m interested in Software + AI integration stuff.
-- 🌱 I’m currently learning : js->react->react native,ts,node js.
+- 🌱 I’m currently learning : deep learning
 - 💞️ I’m looking to collaborate on Django + Ai intregration
 - 📫 How to reach me =>-<a href= "https://linkedin.com/in/divyanshugoswami">linkedin</a>
 - 😄 Pronouns: he/him
