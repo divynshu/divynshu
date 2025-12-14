@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software + AI integration stuff.
 - 🌱 I’m currently learning : deep learning
 - 💞️ I’m looking to collaborate on Django + Ai intregration
-- 📫 How to reach me =>-<a href= "https://linkedin.com/in/divyanshugoswami">linkedin</a>
+- 📫 How to reach me =>-<a>by making a pull request ,tell you message in comments</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Reach me and you know it.
 # Profile View
